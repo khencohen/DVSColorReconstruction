@@ -1,6 +1,7 @@
 # DCR
 
-Code base for Light Obsevation aNd Glare Dvs Image Coloring (LONGDIC).
+Code base for Light Obsevation aNd Glare Dvs Image Coloring.
+Paper: https://arxiv.org/abs/2211.06695
 
 ## Example
 
